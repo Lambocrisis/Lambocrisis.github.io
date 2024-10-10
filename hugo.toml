@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'zh-CN'
+title = '竹林中'
+theme = 'typo'
