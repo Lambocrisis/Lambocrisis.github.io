@@ -1,4 +1,18 @@
-baseURL = ''
+baseURL = 'https://lambocrisis.github.io/'
 languageCode = 'zh-CN'
 title = '竹林中'
 theme = 'typo'
+
+[[params.menu]]
+name = "主页"
+url = "/"
+
+[[params.menu]]
+name = "文章"
+url = "/post"
+
+[params]
+colorPalette = 'catpuccin'
+
+showFooter = true
+footerContent = "久在樊笼里，复得返自然"
