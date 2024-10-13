@@ -15,7 +15,7 @@ url = "/post"
 colorPalette = 'catpuccin'
 
 homeIntroContent = """
-> 瞻彼淇奥，绿竹猗猗。——《诗经·卫风·淇奥》
+地址：竹云馆，瑸市街，滨江区
 """
 
 showFooter = true
@@ -24,3 +24,5 @@ footerContent = "久在樊笼里，复得返自然"
 listSummaries = false
 
 listDateFormat = '2006 Jan 02'
+
+paginationSize = 20
