@@ -1,5 +1,5 @@
 +++
-title = '白竹林之梦'
+title = '竹林梦'
 date = 2024-07-02
 draft = false
 +++
