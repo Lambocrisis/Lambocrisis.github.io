@@ -12,7 +12,7 @@ name = "文章"
 url = "/post"
 
 [params]
-colorPalette = 'catpuccin'
+colorPalette = 'eink'
 
 homeIntroContent = """
 地址：竹云馆，瑸市街，滨江区
